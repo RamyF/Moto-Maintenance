@@ -1,4 +1,4 @@
-package com.example.moto_maintenance
+package com.rfarah.motomaintenance
 
 import io.flutter.embedding.android.FlutterActivity
 
